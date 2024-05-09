@@ -1,0 +1,7 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    justify-content: center; color: rgb(0, 0, 0); padding: 20px;
+    padding: 0 20px 20px 20px;background-color: rgb(86, 218, 117);
+    border: 5px solid rgb(7, 3, 255);
+  }
